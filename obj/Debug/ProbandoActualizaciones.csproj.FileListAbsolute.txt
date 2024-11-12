@@ -1,0 +1,13 @@
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\bin\Debug\ProbandoActualizaciones.exe.config
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\bin\Debug\ProbandoActualizaciones.exe
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\bin\Debug\ProbandoActualizaciones.pdb
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\obj\Debug\ProbandoActualizaciones.csproj.AssemblyReference.cache
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\obj\Debug\ProbandoActualizaciones.Form1.resources
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\obj\Debug\ProbandoActualizaciones.Properties.Resources.resources
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\obj\Debug\ProbandoActualizaciones.csproj.GenerateResource.cache
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\obj\Debug\ProbandoActualizaciones.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\obj\Debug\Probando.26432051.Up2Date
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\obj\Debug\ProbandoActualizaciones.exe
+C:\Users\James\Documents\C# Proyectos\ProbandoActualizaciones\obj\Debug\ProbandoActualizaciones.pdb
